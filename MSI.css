@@ -359,10 +359,6 @@ padding-left: 30px;
     width: 212.738px;
     /* background-color: cadetblue; */
 }
-
-
-
-
 .inner-main{
     /* background-color: rgb(50, 129, 234); */
     height: 154px;
@@ -380,9 +376,6 @@ padding-left: 30px;
     transition: 0.3s;
     cursor: pointer;
 }
-
-
-
 .img-in{
     height: 100px;
     width: 100px;
@@ -396,9 +389,7 @@ padding-left: 30px;
     width: 182.738px;
     height: 54px;
     /* background-color: aqua; */
-
 }
-
 .tit{
     font-weight: 700;
     height: 24px;
@@ -479,11 +470,6 @@ padding-left: 30px;
     align-items: center;
 
 }
-
-
-
-
-
 .block-text{
     color: #222222;
     cursor: pointer;
@@ -553,8 +539,6 @@ padding-left: 30px;
 
 .hovor-div:hover{
    background-color:  rgba(128, 128, 128, .4);
-  
-   
 }
 
 .msi-text{
@@ -565,9 +549,6 @@ padding-left: 30px;
     font-weight: 700;
     margin-left: 20px;
 }
-
-
-
 .msi-para{
     color: #000;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
@@ -575,7 +556,6 @@ padding-left: 30px;
     margin-left: 20px;
     margin-top: -16px;
 }
-
 
 .mark-secod-block{
     /* background-color: rgb(239, 177, 133); */
@@ -586,7 +566,6 @@ padding-left: 30px;
     align-items: center;
 }
 
-
 .mark-img{
     /* background-color: rgb(11, 223, 209); */
     width: 714px;
@@ -594,11 +573,6 @@ padding-left: 30px;
     overflow: hidden;
     cursor: pointer;
 }
-
-
-
-
-
 
 .marketing-img{
     transition: 0.3s;
@@ -610,15 +584,6 @@ padding-left: 30px;
     transform: scale(1.1);
 
 }
-
-
-
-
-
-
-
-
-
 
 .footer{
     width: 100%;
@@ -730,4 +695,21 @@ padding-left: 30px;
 
 .ind:hover{
     text-decoration: underline;
+}
+
+.triangle {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-right: 80px solid transparent;
+    border-bottom: 80px solid #555;
+    z-index: 9;
+}
+.star{
+    color: #f4f4f4;
+    position: absolute;
+    bottom: -100px;
+    left: -16.5px;
 }

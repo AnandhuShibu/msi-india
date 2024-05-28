@@ -199,7 +199,6 @@ padding-left: 30px;
     padding-top: 62px;
  }
 .servicemain{
-    /* background-color: aqua; */
     width: 98%;
     height: 670.275px;
     display: flex;
@@ -207,7 +206,6 @@ padding-left: 30px;
 }
 
 .first{
-    /* background-color: rgb(7, 137, 91); */
     width: 345.3px;
     height: 700.28px;
     padding: 15px;
@@ -216,7 +214,6 @@ padding-left: 30px;
 .firstblock{
     width: 345.3px;
     height: 641.28px;
-    /* background-color: rgb(172, 245, 38); */
     cursor: pointer;
 }
 .firstblock:hover{
@@ -227,7 +224,6 @@ padding-left: 30px;
 .first-top{
     width: 345.3px;
     height: 547.675px;
-    /* background-color: chocolate; */
     overflow: hidden;
 }
 .top-img{
@@ -241,7 +237,6 @@ padding-left: 30px;
 .first-bottom{
     width: 345.3px;
     height: 92.6px;
-    /* background-color: rgb(70, 135, 220); */
 }
 
 .fir-tit{
@@ -264,7 +259,6 @@ padding-left: 30px;
 }
 
 .second,.third,.fourth{
-    /* background-color: rgb(11, 221, 148); */
     width: 341.3px;
     height: 700.28px;
     padding: 14px;
@@ -273,14 +267,11 @@ padding-left: 30px;
 .secondblock,.thirdblock,.fourthblock{
     width: 345.3px;
     height: 627.28px;
-    /* background-color: rgb(77, 239, 107); */
-   
 }
 
 .top-block{
     width: 345.3px;
     height: 315.09px;
-    /* background-color: rgb(127, 133, 128); */
     cursor: pointer;
     padding-bottom: 13px;
 }
@@ -292,7 +283,6 @@ padding-left: 30px;
 .bottom-block{
     width: 345.3px;
     height: 315.09px;
-    /* background-color: rgb(222, 231, 125); */
     cursor: pointer;
 }
 
@@ -304,14 +294,12 @@ padding-left: 30px;
 .img-block-top{
     width: 345.3px;
     height: 222.49px;
-    /* background-color: rgb(152, 165, 8); */
     overflow: hidden;
 }
 
 .img-block-bottom{
     width: 345.3px;
     height: 222.49px;
-    /* background-color: rgb(152, 165, 8); */
     overflow: hidden;
 }
 .service-img{
@@ -324,7 +312,6 @@ padding-left: 30px;
 }
 
 .text-block-top{
-    /* background-color: rgb(151, 233, 69); */
     width: 345.3px;
     height:92px;
     margin-top: -6px;
@@ -347,7 +334,6 @@ padding-left: 30px;
 .future-main{
     width:1481.2px;
     height: 208px;
-    /* background-color: yellow; */
     margin-left: 16px;
     display: flex;
     padding-top: 9px;
@@ -357,10 +343,8 @@ padding-left: 30px;
 .blocks{
     height: 208px;
     width: 212.738px;
-    /* background-color: cadetblue; */
 }
 .inner-main{
-    /* background-color: rgb(50, 129, 234); */
     height: 154px;
     width: 182.738px;
     margin: 13px;
@@ -368,7 +352,6 @@ padding-left: 30px;
 }
 
 .img-main{
-    /* background-color: rgb(227, 242, 24); */
     height: 100px;
     width: 100px;
     margin-left:43px;
@@ -388,7 +371,6 @@ padding-left: 30px;
 .inner-tit{
     width: 182.738px;
     height: 54px;
-    /* background-color: aqua; */
 }
 .tit{
     font-weight: 700;
@@ -402,7 +384,6 @@ padding-left: 30px;
 .support-area{
     width: 100%;
     height: 53.45px;
-    /* background-color: chartreuse; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -413,14 +394,12 @@ padding-left: 30px;
 .support-inner{
     width:1280px;
     height: 53.45px;
-    /* background-color: rgb(200, 230, 169); */
     display:flex;
 }
 
 .sup-block1{
     width: 327.5px;
     height: 53.4px;
-    /* background-color: chocolate; */
     display: flex;
     justify-content: center;
    
@@ -429,7 +408,6 @@ padding-left: 30px;
 .sup-block2{
     width: 327.5px;
     height: 53.4px;
-    /* background-color: rgb(12, 91, 181); */
     display: flex;
     justify-content: center;
    
@@ -438,7 +416,6 @@ padding-left: 30px;
 .sup-block3{
     width: 327.5px;
     height: 53.4px;
-    /* background-color: rgb(230, 241, 8); */
     display: flex;
     justify-content: center;
    
@@ -447,7 +424,6 @@ padding-left: 30px;
 .sup-block4{
     width: 327.5px;
     height: 53.4px;
-    /* background-color: rgb(210, 30, 108); */
     display: flex;
     justify-content: center;
    
@@ -456,13 +432,11 @@ padding-left: 30px;
 .supp-icon{
     width: 192.58px;
     height: 39.5px;
-    /* background-color: rgb(235, 206, 219); */
     display: flex;
     justify-content: center;
 }
 
 .sup-text{
-    /* background-color: cadetblue; */
     width: 100%;
     height: 50px;
     display: flex;
@@ -491,7 +465,6 @@ padding-left: 30px;
 }
 
 .marketing-main{
-    /* background-color: rgb(77, 160, 160); */
     width: 100%;
     height: 249px;
     display: flex;
@@ -501,14 +474,12 @@ padding-left: 30px;
 }
 
 .marketing-inner{
-    /* background-color: chartreuse; */
     width: 1489px;
     height: 265px;
     display: flex;
 }
 
 .mark-first-block{
-    /* background-color: rgb(126, 112, 102); */
     width: 744px;
     height: 265px;
     display: flex;
@@ -518,7 +489,6 @@ padding-left: 30px;
 }
 
 .mark-img{
-    /* background-color: rgb(52, 62, 62); */
     width: 714px;
     height: 235px;
     overflow: hidden;
@@ -543,7 +513,6 @@ padding-left: 30px;
 
 .msi-text{
     color: #000;
-    
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI","Noto Sans TC","Microsoft JhengHei", "Meiryo UI", Helvetica, Arial, sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -558,7 +527,6 @@ padding-left: 30px;
 }
 
 .mark-secod-block{
-    /* background-color: rgb(239, 177, 133); */
     width: 744px;
     height: 265px;
     display: flex;
@@ -567,7 +535,6 @@ padding-left: 30px;
 }
 
 .mark-img{
-    /* background-color: rgb(11, 223, 209); */
     width: 714px;
     height: 235px;
     overflow: hidden;
@@ -588,7 +555,6 @@ padding-left: 30px;
 .footer{
     width: 100%;
     height: 416px;
-    /* background-color: aqua; */
     border-top: 1px solid #ececec;
    display:flex;
     justify-content: center;
@@ -596,7 +562,6 @@ padding-left: 30px;
 }
 
 .inner-footer{
-    /* background-color: rgb(211, 218, 203); */
     width: 1280px;
     height: 347px;
    margin-top: -19px;
@@ -633,7 +598,6 @@ padding-left: 30px;
 .bottom-footer{
  width: 1280px;
  height: 68px;
- /* background-color: chartreuse; */
  margin-left:117px;
  border-top: 1px solid #ececec;
 }
@@ -659,7 +623,6 @@ padding-left: 30px;
 .footer-first-block{
     width: 600px;
     height: 68px;
-    /* background-color: chartreuse; */
 }
 
 .coo,.pri,.ter,.con,.ind{
